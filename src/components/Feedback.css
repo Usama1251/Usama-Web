@@ -1,0 +1,7 @@
+  /* Custom CSS for centering the button */
+  .btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+  }
